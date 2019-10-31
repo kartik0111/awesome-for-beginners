@@ -3,7 +3,7 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure your contribution is useful and relevant before submitting. That implies it having enough content and every item has a good succinct description.
+- Make sure your contribution is useful and relevant before submitting. This implies that it might be having enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
 - Use the following format: `- [Repository Name](link-to-repository-label) _(label: beginner-friendly-label-in-the-repository)_ <br> Description`
 - Example link formatting: `- [beginner-friendly](https://github.com/MunGell/awesome-for-beginners/labels/good-first-contribution) _(label: good-first-contribution)_ <br> A list of awesome beginners-friendly projects.`
@@ -18,7 +18,7 @@ Please ensure your pull request adheres to the following guidelines:
   - Repository called "bicycle-wheels-php" has label `easy`. This PR must be confirmed with the maintainer of "bicycle-wheels-php". The issue link where the maintainer confirms that label `easy` is used in the repository for beginner-friendly tasks has to be provided in the PR description.
 - Maintainer confirmation is also required in case repository has more than one beginner-friendly-like label (e.g. `low-hanging-fruit` and `up-for-grabs`).
 - Contributed repository must be maintained, have active community to be able to help newcomers and have issues with appropriate label.
-- Links must be pointing directly to the repository, no tracking links allowed. This list is not for advertising purposes.
+- Links must be pointing directly to the repository, no tracking links are allowed. This list is not for advertising purposes.
 
 Thank you for your suggestions!
 
